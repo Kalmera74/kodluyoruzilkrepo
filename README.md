@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Bu repo [https://www.kodluyoruz.org/]Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.   
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.   
 
 # Installation
 Öncelikle projeyi clonelayın
@@ -23,4 +23,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 
-[https://choosealicense.com/licenses/mit/]MIT
+[MIT](https://choosealicense.com/licenses/mit/)
